@@ -1,0 +1,10 @@
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\bin\Debug\RelicSimulation.exe.config
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\bin\Debug\RelicSimulation.exe
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\bin\Debug\RelicSimulation.pdb
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\obj\Debug\RelicSimulation.csproj.AssemblyReference.cache
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\obj\Debug\RelicSimulation.Main.resources
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\obj\Debug\RelicSimulation.Properties.Resources.resources
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\obj\Debug\RelicSimulation.csproj.GenerateResource.cache
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\obj\Debug\RelicSimulation.csproj.CoreCompileInputs.cache
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\obj\Debug\RelicSimulation.exe
+C:\Users\genda\Desktop\プログラムまとめ\原神聖遺物アプリ\dqp\RelicSimulation\obj\Debug\RelicSimulation.pdb

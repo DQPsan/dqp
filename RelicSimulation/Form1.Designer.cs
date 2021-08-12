@@ -1,7 +1,7 @@
 ﻿
 namespace RelicSimulation
 {
-    partial class Form1
+    partial class Main
     {
         /// <summary>
         /// 必要なデザイナー変数です。
@@ -29,13 +29,34 @@ namespace RelicSimulation
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.character = new System.Windows.Forms.ComboBox();
+            this.SuspendLayout();
+            // 
+            // character
+            // 
+            this.character.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.character.FormattingEnabled = true;
+            this.character.Location = new System.Drawing.Point(88, 99);
+            this.character.Name = "character";
+            this.character.Size = new System.Drawing.Size(180, 20);
+            this.character.TabIndex = 0;
+            // 
+            // Main
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1345, 624);
+            this.Controls.Add(this.character);
+            this.Name = "Main";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Main_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.ComboBox character;
     }
 }
 
